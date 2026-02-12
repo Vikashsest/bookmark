@@ -8,7 +8,7 @@ This application allows users to log in using Google OAuth and manage their pers
 
 ## 🚀 Live Demo
 
-👉 Deployed Link: (Add your Vercel URL here)
+👉 Deployed Link: https://bookmark-orpin-zeta.vercel.app
 
 ---
 
@@ -106,7 +106,7 @@ NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 Installation (Local Setup)
-git clone <your-repo-url>
+git clone https://github.com/Vikashsest/bookmark.git
 cd smart-bookmark-app
 npm install
 npm run dev
